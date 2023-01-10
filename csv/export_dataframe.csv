@@ -1,0 +1,11 @@
+,ImageDescription,Confidence,Prediction
+0,a bunch of apples on a tree,49.01,True
+1,a yellow sports car on a road,60.57,True
+2,a chair with a cushion,46.54,True
+3,a bowl of food,59.91,True
+4,a woman with long hair,46.76,True
+5,a sculpture of a person in a snowy environment,26.43,False
+6,a painting of a battle scene,44.46,False
+7,a black pen with a white background,41.0,True
+8,a large airplane flying in the sky,53.05,True
+9,a waterfall with trees around it,38.47,True
