@@ -7,7 +7,7 @@ Azure Resource Group:
 Microsoft Azure Cognitive Services:
 ![image-002](https://user-images.githubusercontent.com/69249527/211603341-2144fb1b-f4b0-42ed-9282-dcbe9cc60be3.png)
 
-#Project Overview:
+# Project Overview:
 ![image-003](https://user-images.githubusercontent.com/69249527/211603390-24900ce9-53df-4d93-9069-040a5f223c83.png)
 ![image-004](https://user-images.githubusercontent.com/69249527/211603403-a183fec6-c803-4b06-8a5e-88a780d55aa4.png)
 
